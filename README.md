@@ -12,6 +12,7 @@ The rising potential of this comparatively under-the-radar market fuels the need
 The data contains the different attributes of used/refurbished phones and tablets. The data was collected in the year 2021. The detailed data dictionary is given below.
 
 brand_name: Name of manufacturing brand
+
 os: OS on which the device runs
 screen_size: Size of the screen in cm
 4g: Whether 4G is available or not
